@@ -4,4 +4,4 @@ function inc(num) {
 
 const obj = { n: 5 };
 inc(obj);
-console.dir(obj);
+console.log(obj);
